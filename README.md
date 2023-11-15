@@ -103,7 +103,10 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [ask_ida/c++](https://chat.openai.com/g/g-VgbIr9TQQ-ask-ida-c): IDA Pro and Decompiler SDK C++ Coding Assistant (pre-alpha).
 * [Geopolitic Explainer](https://chat.openai.com/g/g-NlzTxUEsP-geopolitic-explainer): Insightful, up-to-date geopolitical analysis and historical context.
 * [Bug Insider](https://chat.openai.com/g/g-ZuYsv3B7u-bug-insider): Analyzes bug bounty writeups and cybersecurity reports, providing structured insights and tips.
-* [Cyber Charli](https://chat.openai.com/g/g-lHnIOPevO-cyber-charli): Educating kids and parents about cybersecurity in a fun way!
+* [The Open Source Intel Agency](https://chat.openai.com/g/g-hObCxT38y-the-open-source-intelligence-agency): Expert in geopolitics, economy, and technology intelligence updates.
+* [Cyber Threat Intelligence](https://chat.openai.com/g/g-LLgFl7GtW-cyber-threat-intelligence): AI APT Threat Intelligence Expert.
+* [Ethereum Auditor](https://chat.openai.com/g/g-ye82R9fh1-ethereum-auditor): Audits Ethereum smart contracts, focusing on security and functionality. 
+
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
